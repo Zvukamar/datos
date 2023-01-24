@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907285131765",
+    "project_id": "datosdktest",
+    "storage_bucket": "datosdktest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907285131765:android:13d0855aac07b2fc0a30bc",
+        "android_client_info": {
+          "package_name": "com.datosdktest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907285131765-vak438kauroc9aav59vkp2plc6orhhrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB21fzh1xFCDlOlgjtHxvkSd5q-HGLuvPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907285131765-vak438kauroc9aav59vkp2plc6orhhrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
